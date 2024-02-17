@@ -1,6 +1,5 @@
-package me.benny.practice.spring.security.note;
-
-import me.benny.practice.spring.security.user.User;
+package com.example.privatenote.note;
+import com.example.privatenote.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package me.benny.practice.spring.security.note;
+package com.example.privatenote.note;
 
 import lombok.Getter;
 import lombok.Setter;
