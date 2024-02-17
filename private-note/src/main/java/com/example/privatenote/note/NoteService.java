@@ -1,8 +1,8 @@
-package me.benny.practice.spring.security.note;
+package com.example.privatenote.note;
 
+import com.example.privatenote.user.User;
+import com.example.privatenote.user.UserNotFoundException;
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.user.User;
-import me.benny.practice.spring.security.user.UserNotFoundException;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;

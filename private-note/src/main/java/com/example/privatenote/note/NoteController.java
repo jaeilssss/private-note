@@ -1,7 +1,7 @@
-package me.benny.practice.spring.security.note;
+package com.example.privatenote.note;
 
+import com.example.privatenote.user.User;
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.user.User;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
